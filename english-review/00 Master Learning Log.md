@@ -1,58 +1,50 @@
 ---
-title: English Training — Master Learning Log
-type: master-log
-week: 2026-W33
-date_range: 2026-08-10/2026-08-13
-level: B1
-status: active
+title: English Learning Home
+kind: navigation
 tags:
-  - english/master-log
-  - english/review
+  - english/navigation
+  - graph/hide
 aliases:
   - Master Learning Log
+  - English Training Home
 ---
 
-# English Training — Master Learning Log
+# English Learning Home
 
-> [!summary] 本周主线
-> 从真实生活与工作话题中，把“能表达”推进到“更自然、更准确”：台风居家、AI 服务与内容创意、航班延误、外卖未收到，以及职业选择中的权衡。
+> [!summary] 学习原则
+> 从真实场景开始说，表达卡只负责提供语言材料，错误与听音卡负责反馈。日期是学习记录，不是知识中心。
 
-## 当前复习重点
+## 今天从这里开始
 
-1. [[weigh A against B]] vs [[balance A and B]]
-2. [[insist on doing vs persist in doing]]
-3. [[didn't + 动词原形]]、[[need to + 动词原形]]、[[consider + doing]]
-4. [[缺少 be]]、[[双主语]]、[[even though 不与 but 连用]]
-5. [[What does X mean]] 与 [[repeat again 冗余]]
-6. [[was about to 连读]]、[[weigh vs weight 发音]]、[[抓住否定词的听力策略]]
+1. 打开 [[Review Queue]]，只选两个场景。
+2. 不看答案，围绕每个场景说 60–90 秒。
+3. 强制使用 2–3 个核心表达。
+4. 修正一个旧错误，再跟读一句。
+5. 完成后记录结果；连续两次自然说出即可降低复习频率。
 
-## Daily Practice
+## 场景地图
 
-- [[2026-08-10]] — 台风居家、AI 服务构想、航班延误
-- [[2026-08-11]] — AI 内容角色与自然描述
-- [[2026-08-12]] — AI 与学习意义、外卖未收到、职业取舍
-- [[2026-08-13]] — 系统复习与 Study Mode 主题
+- [[外卖未收到]] — 投诉、确认位置、礼貌追问
+- [[航班延误与改签]] — 查询起飞时间、替代航班和转机风险
+- [[AI 内容创作]] — 介绍角色、风格、受众与 AI 服务
+- [[AI 学习与人的价值]] — 表达观点、解释理由和学习方法
+- [[职业与生活取舍]] — 权衡、兼顾与考虑行动
+- [[情绪、人际与兴趣经历]] — 描述感受、关系和新体验
 
-## Knowledge Maps
+## 学习记录
 
-- [[Vocabulary Index]]
-- [[Chunks Index]]
-- [[Mistakes Index]]
-- [[Listening & Pronunciation Index]]
+- `01 Daily Practice`：保留真实日期、原句和当天语境。
+- [[Weekly Review 2026-W33]]：每周进行完整输出。
+- [[Review Queue]]：决定今天练什么。
 
-## Review
+## 图谱怎么用
 
-- [[Weekly Review 2026-W33]]
-- [[Review Queue]]
+- 平时：打开一个 Scene，再使用“局部关系图谱”，深度设为 `1`。
+- 每周：查看全局知识图谱，观察场景簇、孤岛和连接过多的节点。
+- 全局图谱默认筛选：`path:"english-review" -tag:#graph/hide`。
+- 日期、导航、复习清单和归档仍然存在，但不会进入知识图谱。
 
-## 本周可见进步
+## 系统说明
 
-- 能把复杂想法拆成更短、更清楚的英语句子。
-- 已能在真实场景中主动使用 [[wrap up vs sum up|wrap up]]、[[mark something as delivered]] 等表达。
-- 开始区分“比较后取舍”与“同时兼顾”：[[weigh A against B]] / [[balance A and B]]。
-- 已注意到连读中小词和否定词会改变整句意义，见 [[抓住否定词的听力策略]]。
-
-## 数据边界
-
-本库只把有上下文支持的语言产出列为错误；台风名称、专名、零散转写和发音试读均不计入错误，见 [[语音识别噪声处理说明]]。
-
+- [[System Index]]
+- [[语音识别噪声处理说明]]
