@@ -1,14 +1,34 @@
 {
   "main": {
-    "id": "0230ef9a1ca95808",
+    "id": "ad93f2d8720863ca",
     "type": "split",
     "children": [
       {
-        "id": "3c8bf943281a45d7",
+        "id": "71f1817010e6fb06",
         "type": "tabs",
         "children": [
           {
-            "id": "5383e00796b1f801",
+            "id": "70f65152e92083c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "欢迎.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "欢迎"
+            }
+          }
+        ]
+      },
+      {
+        "id": "999d8ce312b40813",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fa071ab9d48c172",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -23,15 +43,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "871c4f2756dfe476",
+    "id": "bc5be331e558db32",
     "type": "split",
     "children": [
       {
-        "id": "b7d7d1a43ee8d31e",
+        "id": "bbbded39bd666ec8",
         "type": "tabs",
         "children": [
           {
-            "id": "4d56c753ed94c1dc",
+            "id": "e25bbae22f0ff2a1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,7 +66,7 @@
             }
           },
           {
-            "id": "936be29787a88354",
+            "id": "94c335aef927371e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,7 +83,7 @@
             }
           },
           {
-            "id": "7d7f8d7bc8cac39d",
+            "id": "f661fc9d6ad326ad",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,19 +102,20 @@
     "width": 300
   },
   "right": {
-    "id": "a56f52867d35f59e",
+    "id": "a6eb13eab9331b76",
     "type": "split",
     "children": [
       {
-        "id": "fcd429e4f69afd5b",
+        "id": "655da6d0ee7be741",
         "type": "tabs",
         "children": [
           {
-            "id": "81d5d9c32cd6e578",
+            "id": "5afcd33b5b02b2c2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "欢迎.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,11 +129,12 @@
             }
           },
           {
-            "id": "d5212cc64fe408e6",
+            "id": "31125297b30e419b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "欢迎.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -121,7 +143,7 @@
             }
           },
           {
-            "id": "7544c1eed14343e2",
+            "id": "3afeb78569d95ae7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -136,7 +158,7 @@
             }
           },
           {
-            "id": "287bc67b12789fe0",
+            "id": "19628af10d50d9ad",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -150,11 +172,12 @@
             }
           },
           {
-            "id": "46a1681824e71146",
+            "id": "8227c647e56c3a72",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "欢迎.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -178,49 +201,11 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false
+      "bases:新建数据库": false
     }
   },
-  "active": "5383e00796b1f801",
+  "active": "70f65152e92083c2",
   "lastOpenFiles": [
-    "未命名.canvas",
-    "english-review/05 Patterns/情态动词 + 动词原形.md",
-    "english-review/02 Scenes/外卖未收到.md",
-    "english-review/02 Scenes/情绪、人际与兴趣经历.md",
-    "english-review/02 Scenes/航班延误与改签.md",
-    "english-review/03 Expressions/a relaxed vibe.md",
-    "english-review/02 Scenes/AI 学习与人的价值.md",
-    "english-review/99 System/System Index.md",
-    "english-review/06 Sound/delivery 发音与压缩.md",
-    "english-review/02 Scenes/职业与生活取舍.md",
-    "english-review/02 Scenes/AI 内容创作.md",
-    "english-review/03 Expressions/What does X mean.md",
-    "english-review/03 Expressions/take over.md",
-    "english-review/99 System/Archive/subtle 的 b 不发音.md",
-    "english-review/99 System/Indexes/Sound Index.md",
-    "english-review/99 System/Indexes/Vocabulary Index.md",
-    "english-review/99 System/Archive/it’s been delivered 的压缩.md",
-    "english-review/99 System/Indexes/Patterns Index.md",
-    "english-review/99 System/Indexes/Expressions Index.md",
-    "english-review/99 System/Archive/reluctant 发音.md",
-    "english-review/99 System/Archive/quit my job.md",
-    "english-review/99 System/Archive/delivery 系列发音.md",
-    "english-review/99 System/语音识别噪声处理说明.md",
-    "english-review/99 System/README.md",
-    "english-review/99 System/Indexes",
-    "english-review/99 System/Archive",
-    "english-review/99 System",
-    "english-review/02 Scenes",
-    "english-review/07 Review/Weekly Review 2026-W33.md",
-    "english-review/07 Review/Review Queue.md",
-    "english-review/07 Review",
-    "english-review/06 Sound",
-    "english-review/05 Patterns",
-    "english-review/04 Vocabulary",
-    "english-review/03 Expressions",
-    "topic",
-    "未命名 2.canvas",
-    "未命名 1.canvas"
+    "欢迎.md"
   ]
 }
