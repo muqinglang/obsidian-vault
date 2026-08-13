@@ -12,7 +12,6 @@ tags:
 aliases:
   - as...as
 ---
-
 # as adjective as
 
 > It doesn't seem as scary as bungee jumping.

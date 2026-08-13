@@ -11,10 +11,14 @@
             "id": "5383e00796b1f801",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "english-review/03 Chunks/as adjective as.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "as adjective as"
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "english-review/03 Chunks/as adjective as.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "english-review/03 Chunks/as adjective as.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "english-review/03 Chunks/as adjective as.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -178,19 +185,22 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "5383e00796b1f801",
   "lastOpenFiles": [
+    "english-review/03 Chunks/appeal to someone.md",
+    "english-review/03 Chunks/Chunks Index.md",
+    "english-review/03 Chunks/a relaxed vibe.md",
+    "english-review/05 Listening & Pronunciation/语音识别噪声处理说明.md",
+    "english-review/06 Review/Review Queue.md",
     "english-review/01 Daily Practice/2026-08-12.md",
     "english-review/05 Listening & Pronunciation/was about to 连读.md",
     "english-review/06 Review/Weekly Review 2026-W33.md",
-    "english-review/06 Review/Review Queue.md",
     "english-review/README.md",
     "english-review/00 Master Learning Log.md",
-    "english-review/05 Listening & Pronunciation/语音识别噪声处理说明.md",
-    "english-review/03 Chunks/a relaxed vibe.md",
     "english-review/02 Vocabulary/willpower.md",
     "english-review/02 Vocabulary/Vocabulary Index.md",
     "english-review/02 Vocabulary/valid.md",
@@ -208,8 +218,6 @@
     "english-review/05 Listening & Pronunciation/weigh vs weight 发音.md",
     "english-review/05 Listening & Pronunciation/抓住否定词的听力策略.md",
     "english-review/05 Listening & Pronunciation/subtle 的 b 不发音.md",
-    "english-review/05 Listening & Pronunciation/Listening & Pronunciation Index.md",
-    "english-review/05 Listening & Pronunciation/reluctant 发音.md",
     "english-review/05 Listening & Pronunciation",
     "english-review/04 Mistakes",
     "english-review/03 Chunks",
