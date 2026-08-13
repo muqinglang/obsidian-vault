@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "0230ef9a1ca95808",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c8bf943281a45d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5383e00796b1f801",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "871c4f2756dfe476",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7d7d1a43ee8d31e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d56c753ed94c1dc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "936be29787a88354",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "7d7f8d7bc8cac39d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a56f52867d35f59e",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcd429e4f69afd5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81d5d9c32cd6e578",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "d5212cc64fe408e6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "7544c1eed14343e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "287bc67b12789fe0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "46a1681824e71146",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "5383e00796b1f801",
+  "lastOpenFiles": [
+    "english-review/01 Daily Practice/2026-08-12.md",
+    "english-review/05 Listening & Pronunciation/was about to 连读.md",
+    "english-review/06 Review/Weekly Review 2026-W33.md",
+    "english-review/06 Review/Review Queue.md",
+    "english-review/README.md",
+    "english-review/00 Master Learning Log.md",
+    "english-review/05 Listening & Pronunciation/语音识别噪声处理说明.md",
+    "english-review/03 Chunks/a relaxed vibe.md",
+    "english-review/02 Vocabulary/willpower.md",
+    "english-review/02 Vocabulary/Vocabulary Index.md",
+    "english-review/02 Vocabulary/valid.md",
+    "english-review/02 Vocabulary/take over.md",
+    "english-review/02 Vocabulary/short-tempered.md",
+    "english-review/02 Vocabulary/rock climbing.md",
+    "english-review/02 Vocabulary/restless vs on edge.md",
+    "english-review/02 Vocabulary/reluctant.md",
+    "english-review/02 Vocabulary/penalized.md",
+    "english-review/02 Vocabulary/nudge.md",
+    "english-review/01 Daily Practice/2026-08-11.md",
+    "english-review/04 Mistakes/Mistakes Index.md",
+    "english-review/01 Daily Practice/2026-08-10.md",
+    "english-review/06 Review",
+    "english-review/05 Listening & Pronunciation/weigh vs weight 发音.md",
+    "english-review/05 Listening & Pronunciation/抓住否定词的听力策略.md",
+    "english-review/05 Listening & Pronunciation/subtle 的 b 不发音.md",
+    "english-review/05 Listening & Pronunciation/Listening & Pronunciation Index.md",
+    "english-review/05 Listening & Pronunciation/reluctant 发音.md",
+    "english-review/05 Listening & Pronunciation",
+    "english-review/04 Mistakes",
+    "english-review/03 Chunks",
+    "english-review/02 Vocabulary",
+    "english-review/01 Daily Practice"
+  ]
+}
